@@ -5,7 +5,7 @@ import "./header.css"
 import "./content.css"
 import "./article.css"
 
-
+//app
 const App = () => {
 
   const [fotos, setFotos] = useState([])
